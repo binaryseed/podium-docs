@@ -1,2 +1,1 @@
-# podium-docs
-Documentation
+see https://github.com/binaryseed/podium-docs/wiki
